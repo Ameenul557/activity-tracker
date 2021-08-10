@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436050442339",
+    "project_id": "activity-tracker-e2231",
+    "storage_bucket": "activity-tracker-e2231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436050442339:android:30bedf907cbdee8f0e6056",
+        "android_client_info": {
+          "package_name": "com.ahcreations.activity_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436050442339-aavm52q7ntct5q4nnd8aao97qthj9f2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7eOQ_AgzuNSJkkVNC7uzWabkKkDS0e6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436050442339-aavm52q7ntct5q4nnd8aao97qthj9f2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
